@@ -24,7 +24,7 @@ sudo cp cw /usr/local/bin
 ```
 
 ## Example usage
-```bash
-cw find all python file in the folder
+```console
+$ cw find all python file in the folder
 find . -name "*.py"
 ```
